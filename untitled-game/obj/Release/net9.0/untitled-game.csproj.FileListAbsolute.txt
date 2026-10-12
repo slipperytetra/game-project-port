@@ -1,0 +1,1 @@
+/Users/coreysmith/Local Documents/MonoGame Projects/untitled-game/obj/Release/net9.0/mgcb.tool.restore
