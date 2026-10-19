@@ -1,0 +1,13 @@
+/Users/coreysmith/Local Documents/MonoGame Projects/MonoGameLibrary/bin/Debug/net9.0/MonoGameLibrary.deps.json
+/Users/coreysmith/Local Documents/MonoGame Projects/MonoGameLibrary/bin/Debug/net9.0/MonoGameLibrary.dll
+/Users/coreysmith/Local Documents/MonoGame Projects/MonoGameLibrary/bin/Debug/net9.0/MonoGameLibrary.pdb
+/Users/coreysmith/Local Documents/MonoGame Projects/MonoGameLibrary/obj/Debug/net9.0/MonoGameLibrary.csproj.AssemblyReference.cache
+/Users/coreysmith/Local Documents/MonoGame Projects/MonoGameLibrary/obj/Debug/net9.0/MonoGameLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/coreysmith/Local Documents/MonoGame Projects/MonoGameLibrary/obj/Debug/net9.0/MonoGameLibrary.AssemblyInfoInputs.cache
+/Users/coreysmith/Local Documents/MonoGame Projects/MonoGameLibrary/obj/Debug/net9.0/MonoGameLibrary.AssemblyInfo.cs
+/Users/coreysmith/Local Documents/MonoGame Projects/MonoGameLibrary/obj/Debug/net9.0/MonoGameLibrary.csproj.CoreCompileInputs.cache
+/Users/coreysmith/Local Documents/MonoGame Projects/MonoGameLibrary/obj/Debug/net9.0/MonoGameLibrary.sourcelink.json
+/Users/coreysmith/Local Documents/MonoGame Projects/MonoGameLibrary/obj/Debug/net9.0/MonoGameLibrary.dll
+/Users/coreysmith/Local Documents/MonoGame Projects/MonoGameLibrary/obj/Debug/net9.0/refint/MonoGameLibrary.dll
+/Users/coreysmith/Local Documents/MonoGame Projects/MonoGameLibrary/obj/Debug/net9.0/MonoGameLibrary.pdb
+/Users/coreysmith/Local Documents/MonoGame Projects/MonoGameLibrary/obj/Debug/net9.0/ref/MonoGameLibrary.dll

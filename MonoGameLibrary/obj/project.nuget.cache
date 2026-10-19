@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tVqJ0Rb6fZo=",
+  "success": true,
+  "projectFilePath": "/Users/coreysmith/Local Documents/MonoGame Projects/MonoGameLibrary/MonoGameLibrary.csproj",
+  "expectedPackageFiles": [
+    "/Users/coreysmith/.nuget/packages/monogame.framework.native/3.8.6/monogame.framework.native.3.8.6.nupkg.sha512",
+    "/Users/coreysmith/.nuget/packages/microsoft.netcore.app.ref/9.0.20/microsoft.netcore.app.ref.9.0.20.nupkg.sha512",
+    "/Users/coreysmith/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.20/microsoft.aspnetcore.app.ref.9.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

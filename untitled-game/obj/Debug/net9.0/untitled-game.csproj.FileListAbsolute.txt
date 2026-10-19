@@ -34,3 +34,9 @@
 /Users/coreysmith/Local Documents/MonoGame Projects/untitled-game/obj/Debug/net9.0/untitled-game.pdb
 /Users/coreysmith/Local Documents/MonoGame Projects/untitled-game/obj/Debug/net9.0/untitled-game.genruntimeconfig.cache
 /Users/coreysmith/Local Documents/MonoGame Projects/untitled-game/obj/Debug/net9.0/ref/untitled-game.dll
+/Users/coreysmith/Local Documents/MonoGame Projects/untitled-game/bin/Debug/net9.0/MonoGameLibrary.dll
+/Users/coreysmith/Local Documents/MonoGame Projects/untitled-game/bin/Debug/net9.0/MonoGameLibrary.pdb
+/Users/coreysmith/Local Documents/MonoGame Projects/untitled-game/obj/Debug/net9.0/untitled-game.sourcelink.json
+/Users/coreysmith/Local Documents/MonoGame Projects/untitled-game/bin/Debug/net9.0/Content/images/logo.xnb
+/Users/coreysmith/Local Documents/MonoGame Projects/untitled-game/bin/Debug/net9.0/Content/images/atlas.xnb
+/Users/coreysmith/Local Documents/MonoGame Projects/untitled-game/bin/Debug/net9.0/Content/images/atlas-definition.xml

@@ -1,1 +1,4 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/Users/coreysmith/Local Documents/MonoGame Projects/untitled-game/Content/images/atlas-definition.xml","/Users/coreysmith/Local Documents/MonoGame Projects/untitled-game/Content/bin/DesktopGL/Content/images/atlas-definition.xml","CopyItem","File",270,270,0.000997
+"/Users/coreysmith/Local Documents/MonoGame Projects/untitled-game/Content/images/atlas.png","/Users/coreysmith/Local Documents/MonoGame Projects/untitled-game/Content/bin/DesktopGL/Content/images/atlas.xnb","TextureProcessor","Texture2DContent",590,16469,0.084903
+"/Users/coreysmith/Local Documents/MonoGame Projects/untitled-game/Content/images/logo.png","/Users/coreysmith/Local Documents/MonoGame Projects/untitled-game/Content/bin/DesktopGL/Content/images/logo.xnb","TextureProcessor","Texture2DContent",16734,311381,1.195762
